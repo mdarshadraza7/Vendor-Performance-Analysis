@@ -20,6 +20,11 @@ This project analyzes vendor-level sales, purchasing, pricing, inventory, and pr
 The analysis combines **Python-based data processing and exploratory analysis** with an interactive **Power BI dashboard** to transform raw transactional data into actionable business insights.
 
 ---
+### 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Power%20BI/vendor_performance_dashboard.png" alt="Vendor Performance Dashboard" width="100%">
+</p>
 
 ## 🎯 Business Objectives
 
